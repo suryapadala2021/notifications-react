@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.noti-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.noti-heading {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-size: 26px;
+}
+.success-icon {
+  color: #2dca73;
+  font-size: 25px;
+  margin: 10px;
+}
+.heading-success {
+  color: #2dca73;
+  font-size: 16px;
+}
+.para-success {
+  color: #475569;
+  margin-right: 5px;
+}
+
+.heading-failure {
+  color: red;
+  font-size: 16px;
+}
+.failure-icon {
+  color: red;
+  font-size: 40px;
+  margin: 10px;
+}
+.warning-icon {
+  color: #ffb800;
+  font-size: 25px;
+  margin: 10px;
+}
+.heading-warning {
+  color: #ffb800;
+  font-size: 16px;
+}
+.info-icon {
+  color: #0f81e0;
+  font-size: 25px;
+}
+.heading-info {
+  color: #0f81e0;
+  font-size: 16px;
+  margin: 10px;
+}

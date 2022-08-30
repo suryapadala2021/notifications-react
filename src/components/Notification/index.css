@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.noti {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+  border-radius: 5px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 380px;
+  padding: 10px;
+}
+.text-box {
+  flex-grow: 1;
+}
+.cross-mark {
+  align-self: center;
+  height: 20px;
+  width: 20px;
+}
